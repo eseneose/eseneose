@@ -3,21 +3,17 @@
   <img src="https://media.giphy.com/media/gcOg6zLJc0hN6YZ2i4/giphy.gif" width="100"/>
   
   <div id="badges">
-    <a href="https://www.linkedin.com/in/esene-osemudiamen-686622223/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+ 
     <a href="https://www.facebook.com/drealose/">
       <img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
+  
   </div>
   
   <img src="https://komarev.com/ghpvc/?username=eseneose&style=flat-square&color=blue" alt=""/>
   
   <h1>
-    hey there
+    Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
@@ -33,15 +29,14 @@
 
 ### 👨‍💻 About Me :
   
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+  I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-  - :telescope: I’m working as an IT Manager, contributing to frontend and backend for building web applications, and Growing business traction with Social media.
-
+  - :telescope: I’m currently working as an IT Manager, contributing to frontend and backend development processes as well as making and maintaining updates.
 - :seedling: Exploring dAPP Development with Solidity.
 
 - :zap: In my free time, I improve on my skills and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Esene-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/esene-osemudiamen-686622223/)
+- :mailbox:How to reach me: [![Facebook Badge](https://img.shields.io/badge/-Esene-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/drealose/)
 
 
 ---
